@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MERN Streaming WebApp</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -45,12 +44,12 @@
     <li>
       <strong>Clone the repository:</strong>
       <br>
-      <code>git clone https://github.com/your-username/MERN-Streaming-WebApp.git</code>
+      <code>git clone https://github.com/vishwajit022/VishFlix</code>
     </li>
     <li>
       <strong>Install dependencies:</strong>
       <br>
-      <code>cd MERN-Streaming-WebApp<br>npm install</code>
+      <code>cd VishFlix<br>npm install</code>
     </li>
     <li>
       <strong>Run the application:</strong>
@@ -62,7 +61,7 @@
   <h2>Contributing</h2>
   <p>🤝 We welcome contributions! Feel free to open issues, submit pull requests, or suggest improvements. Together, let's make this web app even more amazing.</p>
   <h2>Support</h2>
-  <p>📧 Have questions or need assistance? Contact us at <a href="mailto:support@mernstreamingwebapp.com">support@mernstreamingwebapp.com</a></p>
+  <p>📧 Have questions or need assistance? Contact us at <a href="mailto:vishwajitingole22@gmail.com">codervish@merndev.com</a></p>
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
